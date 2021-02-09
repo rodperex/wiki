@@ -26,6 +26,7 @@
 * [Rafael Villén Galera]() (Rafael Villén Galera)
 # Credits
 
+* [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
 * [Alvaro del Castillo](https://github.com/acs). He designed and created the original content of this subject. Thanks a lot :-)
 
 # License
