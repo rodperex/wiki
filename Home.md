@@ -1,4 +1,4 @@
-![](https://github.com/davidrol6/2019-2020-PNE/raw/master/Cover/cover.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/Cover/cover.png)
 
 # Information
 
