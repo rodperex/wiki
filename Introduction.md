@@ -1,18 +1,16 @@
 # Session 0: Introduction
 
 * **Goals**: Introduce briefly the subject
-* **Date**: Tuesday, Jan-21st-2020
+* **Date**: Tuesday, Feb-9th-2021
 * **Time**: 20 minutes
 * **Slides**: 
-  * [Preview in Github](https://github.com/davidrol6/2019-2020-PNE/blob/master/s0-introduction/Introduction.pdf)
-  * Download file: [Introduction.pdf](https://github.com/davidrol6/2019-2020-PNE/raw/master/s0-introduction/Introduction.pdf)
+  * [Preview in Github](https://github.com/davidrol6/2020-2021-PNE/blob/master/s0-introduction/Introduction.pdf)
+  * Download file: [Introduction.pdf](https://github.com/davidrol6/2020-2021-PNE/raw/master/s0-introduction/Introduction.pdf)
 
 # Authors
 
 * [David Roldán Álvarez](https://github.com/davidrol6) (David Roldán Álvarez)
 * [Rafael Villén Galera]() (Rafael Villén Galera)
-
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/logos-urjc-gsyc-peloto-jderobot.png)
 
 # Credits
 
