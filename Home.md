@@ -20,7 +20,7 @@
 * Final Project
 
 
-# Teacher
+# Teachers
 
 * [David Roldán Álvarez](https://github.com/davidrol6) (David Roldán Álvarez)
 * [Rafael Villén Galera]() (Rafael Villén Galera)
