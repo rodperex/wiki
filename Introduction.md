@@ -9,7 +9,8 @@
 
 # Author
 
-* [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
+* [David Roldán Álvarez](https://github.com/davidrol6) (David Roldán Álvarez)
+* [Rafael Villén Galera]() (Rafael Villén Galera)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/logos-urjc-gsyc-peloto-jderobot.png)
 
