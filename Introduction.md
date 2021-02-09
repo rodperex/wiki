@@ -7,7 +7,7 @@
   * [Preview in Github](https://github.com/davidrol6/2019-2020-PNE/blob/master/s0-introduction/Introduction.pdf)
   * Download file: [Introduction.pdf](https://github.com/davidrol6/2019-2020-PNE/raw/master/s0-introduction/Introduction.pdf)
 
-# Author
+# Authors
 
 * [David Roldán Álvarez](https://github.com/davidrol6) (David Roldán Álvarez)
 * [Rafael Villén Galera]() (Rafael Villén Galera)
