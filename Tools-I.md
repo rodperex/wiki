@@ -13,7 +13,6 @@
 # Contents
 
 * [Introduction](#introduction)  
-* [Watching the Teacher's screen on your computer](#watching-the-teachers-screen-on-your-computer)  
 * [Introduction to Github](#introduction-to-github)  
   * [Our Github's account](#our-githubs-account)  
   * [Playing with repositories](#playing-with-repositories)  
@@ -37,7 +36,6 @@
   * [Ex-2: count.py](#ex-2-countpy)  
   * [Ex-3: sum20.py](#ex-3-sum20py)  
 * [End of the session](#end-of-the-session)
-* [Author](#author)
 * [Credits](#credits)
 * [License](#license)
 
