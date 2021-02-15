@@ -2,7 +2,7 @@
 # Session 2: Tools-II
 
 * **Time**: 2h
-* **Date**: Tuesday, Feb-4th-2020
+* **Date**: Tuesday, Feb-16th-2021
 * **Goals**:
   * Learn how to execute programs step by step
   * Learn the difference between step over, step into and step out
