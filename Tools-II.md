@@ -35,7 +35,7 @@ Writing programs is not difficult. What is more complex is making them work as e
 
 In this session we will learn **how to debug** our programs by executing them **step by step**
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/intro-01.jpg)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/intro-01.jpg)
 
 ## Step by step Execution
 
@@ -45,11 +45,11 @@ The Pycharm IDE has an integrated tool for letting us to execute our programs li
 
 Let's practice with the **hello.py** program that we already did in the **session 1**. It should be in the **Hello folder** in our **local working repository** (2019-2020-PNE-Practices)
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/hello-01.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/hello-01.png)
 
 As we have already execute it one time, there is an **existing configuration**. Therefore, we can execute again very easily just by **clicking on the green play button** (make sure that the selected configuration is hello)
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/hello-02.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/hello-02.png)
 
 A **new Run panel** is opened below. We can see there the **output** of the **print instructions**
 
@@ -61,7 +61,7 @@ The **first step** is to select the line in which we want the program to stop. T
 
 Let's place a **Breakpoint** in the **first print** instruction. Go to the **right side** of the **line number** and doble click with the mouse. A new **red circle** will appear
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/hello-03.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/hello-03.png)
 
 We have placed a **Breakpoint** in the **line number 1** 
 
@@ -69,17 +69,17 @@ We have placed a **Breakpoint** in the **line number 1**
 
 once the Breakpoints are set (we can place more than one if we want) we press the **green bug button** on the right side of the run button
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/hello-04.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/hello-04.png)
 
 The program begins to execute until the first breakpoint is reached. In  our example, as the breakpoint is on the first line, none instruction is executed. The instruction on the breakpoint is **highlighted**
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/hello-05.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/hello-05.png)
 
 A new **debug panel** opens in the bottom. The **debugger tab** is automatically selected. we can also notice a **green point** on the bug. This is for indicating that currently we are in **debug mode**
 
 Click on the **Console Tab** right to the debugger tab
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/hello-06.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/hello-06.png)
 
 There is were the **printed messages** will appear
 
@@ -87,11 +87,11 @@ There is were the **printed messages** will appear
 
 Let's execute the **current instruction**. Press on the small button that says **STEP OVER** (or press the F8 key)
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/hello-07.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/hello-07.png)
 
 We can see on the console the message printed by the first instruction. The line with the next instruction is **highlighted**
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/hello-08.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/hello-08.png)
 
 **Congrats!!** You have executed your first instruction in debug mode!
 
@@ -99,17 +99,17 @@ We can see on the console the message printed by the first instruction. The line
 
 We repeat the process for executing the other two remaining instructions: We click on the **STEP OVER** button again and the next **message** is shown in the **debug console**
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/hello-09.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/hello-09.png)
 
 Finally, we click on **STEP OVER** again and the **last instruction** is executed and the program **finished**
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/hello-10.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/hello-10.png)
 
 The **debug mode is finished**. We no longer see the green dot under the bug
 
 In this **animation** all the process is shown
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/hello-11.gif)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/hello-11.gif)
 
 ### Count.py: Printing numbers from 1 to 20
 
@@ -124,47 +124,47 @@ for i in range(1, 21):
 
 Let's place a **breakpoint** in the print statement, in line 4. Chose the **count configuration** (or run the program if there is not a configuration yet) and press the **debug button**
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/count-01.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/count-01.png)
 
 The program is executed. It enters the for loop and reach the Breakpoint. Notice that inside the loop there is one variable i. Its value can be seen on the lower panel in the right. Currently i = 1
 
 The **i** variable can also be seen on the right of the **for statement** ( i: 1). Click on the **Console TAB** and **STEP OVER** the print instruction
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/count-02.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/count-02.png)
 
 The next instruction is **highlighted** (for) and the value of the **i variable** is printed on the **console**. **STEP OVER** again
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/count-03.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/count-03.png)
 
 The **variable i** is **incremented to 2**, and the next print instruction is **highlighted**
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/count-04.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/count-04.png)
 
 Now, instead of Stepping over, let's resume the program clicking on the **resume button** (on the left) or by pressing the **F9 key**:
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/count-05.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/count-05.png)
 
 The program is executed until the **next breakpoint** is reached:
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/count-06.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/count-06.png)
 
 We press the **resume button** again. We reach the same line, but the **variable i has been incremented**
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/count-07.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/count-07.png)
 
 We **repeat** this process until we reach the last value
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/count-08.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/count-08.png)
 
 **The variable i is 20** (but it has not been printed yet on the console). We press the **resume button** for the last time. The execution is **completed** and the **debug mode ended**
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/count-09.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/count-09.png)
 
 It is easy to debug the programs, right? 🙂
 
 In this **animation** the above execution can be seen
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/count-10.gif)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/count-10.gif)
 
 ### Sum20.py: Sum the 20 first integer numbers
 
@@ -187,19 +187,19 @@ print("Total sum: ", res)
 
 Let's place the **Breakpoint** on the line number 10 (on the *res += i* sentence), chose the **sum20 configuration** and click on the **debug button**
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sum-01.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sum-01.png)
 
 Now there are **two integer** variables: i and res. We see them in the **Variables tab** and in the **code window**. We press the **resume button** several time to see how the res variable is changed
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sum-02.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sum-02.png)
 
 We **repeat** the process. Then the **variable i** is 20 (last value) this is what we see:
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sum-03.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sum-03.png)
 
 we press the resume button for the last time and see the result on the console. The debug is finished
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sum-04.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sum-04.png)
 
 ## Stepping into a function
 
@@ -228,53 +228,53 @@ print("Sum of the 100, frist integers: ", sumn(100))
 ```
 Before executing step by step, let's **run** it
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sumN-01.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sumN-01.png)
 
 We see the results on the console. A **new configuration** called **sumN** has also been created
 
 Place a **Breakpoint** in the first print sentence and execute **debug**
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sumN-02.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sumN-02.png)
 
 If we press the **STEP OVER** button, the **sumn** function is called, the result is calculated, printed on the console and the **next print instruction is highlighted**. Notice that we have **not executed** the instructions of the sumn function step by step
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sumN-03.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sumN-03.png)
 
 If we press the **STEP OVER** button again, the same happens: the new value is calculated by calling to the sumn function, and the result value is printed on the console. Then the **program is finished**
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sumN-04.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sumN-04.png)
 
 Let's debug again. Click on the **debug button**. Now, click on the **Step into** button
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sumN-06.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sumN-06.png)
 
 You can see that the **next instruction highlighted** is now the first **inside the sumn** function. Instead of moving to the next instruction in the main program, it has stopped in the first instruction inside the function
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sumN-07.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sumN-07.png)
 
 If we press the **Step over** function, we can see what is going on **inside de function**, exactly in the same way than we did before. We can also see the **variables** used in the sumn function
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sumN-08.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sumN-08.png)
 
 After executing some instruction, this is what we see:
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sumN-08.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sumN-08.png)
 
 If we want to finish the execution of the sumn function and stop in the upper level, were the function was previously called, we press the **STEP out** button
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sumN-09.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sumN-09.png)
 
 After that, the instruction were the sumn function was called is **highlated**
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sumN-10.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sumN-10.png)
 
 We press the **STEP over** function and see the result on the console, just like the previous debugging. The next instruction is **highlighted**. Notice that now we **no longer see** the **n,res and i variables**. We are in an outer scope where that variables do not exists. They only exist in the sumn scope
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sumN-11.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sumN-11.png)
 
 We can now **step over** or **step into** the sumn function. Let's step into again
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sumN-12.png) 
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sumN-12.png) 
 
 As we are calling the sumn function with the parameter 100, the **n variables** equals **100** now (in the previous call it was n = 20)
 
@@ -282,7 +282,7 @@ We can finish the execution by clicking on the **resume button**. As there are n
 
 The execution explained above can be seen in this **animation**:
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/sumN-13.gif)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/sumN-13.gif)
 
 ## Exercises
 
@@ -297,7 +297,7 @@ Make sure that you have **upload all the exercises** form the **session 1** (tha
 * **Execute** the program **step by step**
 * The output should be like this:
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/ex1-01.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/ex1-01.png)
 
 ### Exercise 2
 
@@ -307,7 +307,7 @@ Make sure that you have **upload all the exercises** form the **session 1** (tha
 * **Execute** the program **step by step**
 * Use the step into button for watching how the fibon() function works. Try also the step out button
 * The output should be like this:
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/ex2-01.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/ex2-01.png)
 
 ### Exercise 3
 
@@ -317,7 +317,7 @@ Make sure that you have **upload all the exercises** form the **session 1** (tha
 * Use the **step into** and **step out** buttons for debugging. Notice that now you have 2 functions at different levels (one function is calling the other). Use step into twice to enter into the fibon() function
 * The output should be like this:
 
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s2-tool-2/ex3-01.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/ex3-01.png)
 
 ## END of the session
 
