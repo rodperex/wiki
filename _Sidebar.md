@@ -3,3 +3,4 @@
 [S0: Introduction](https://github.com/davidrol6/2020-2021-PNE/wiki/Introduction)  
 [S1: Tools I](https://github.com/davidrol6/2020-2021-PNE/wiki/Tools-I)  
 [S2: Tools II](https://github.com/davidrol6/2020-2021-PNE/wiki/Tools-II)     
+[S3: Practicing with the tools](https://github.com/davidrol6/2020-2021-PNE/wiki/PracticingWithTools)
