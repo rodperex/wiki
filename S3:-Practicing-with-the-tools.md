@@ -1,4 +1,4 @@
-![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s3-practicing/Cover/Cover.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s2-tool-2/Cover/Cover.png)
 
 # Session 3: Practicing with the TOOLs
 
