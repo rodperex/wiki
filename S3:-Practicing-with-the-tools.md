@@ -76,7 +76,6 @@ G: 3
 ```
 * **Considerations**: 
   * You **must** use a *loop* for counting the bases
-  * Suppose that the user always introduce **correct sequences** (you do not have to manage any error yet)
 
 ### Exercise 3: Counting DNA bases from a file
 
@@ -90,7 +89,6 @@ ATGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG
 * **Description**: Write a program that opens the **dna.txt** file and calculates the **total number of bases**, and the **number** of the **different bases**
 * **Considerations**: 
   * You **must** use a *loop* for counting the bases
-  * Suppose that the DNA files always contains **correct sequences** (you do not have to manage any error yet)
 
 ## END of the session
 
