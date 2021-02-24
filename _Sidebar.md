@@ -6,5 +6,4 @@
 [S3: Practicing with the tools](https://github.com/davidrol6/2020-2021-PNE/wiki/S3:-Practicing-with-the-tools)  
 ### P0: Seq0 Module
 [S4: The ensembl genome browser](https://github.com/davidrol6/2020-2021-PNE/wiki/S4:-The-ensembl-genome-browser)
-
 [S5: Ensembl II](https://github.com/davidrol6/2020-2021-PNE/wiki/S5:-Practice-0)  
