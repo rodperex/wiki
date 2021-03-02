@@ -1,4 +1,4 @@
-![](https://github.com/davidrol6/2020-2021-PNE/tree/master/s6-OOP/Cover/Cover.png)
+![](https://github.com/davidrol6/2020-2021-PNE/blob/master/s6-OOP/Cover/Cover.png)
 
 # Session 6: Object Oriented Programming
 
