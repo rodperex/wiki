@@ -1,4 +1,4 @@
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s8-client-server-1/Cover/Cover.png)
+![](https://github.com/davidrol6/2020-2021-PNE/blob/master/s8-client-server-1/Cover/Cover.png)
 
 # Session 8: Client-Server programming 1
 
