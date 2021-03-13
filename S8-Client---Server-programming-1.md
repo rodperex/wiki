@@ -144,7 +144,7 @@ For testing the communication between computers in Linux we have the **nc comman
 * In the Teacher's computer the following command is ran:
 
 ```
-nc -l p 8000
+nc -l - p 8000
 ```
 It means that nc is working as a server, "listening" to the connection from other computers. It is located on port 8000
 
