@@ -11,6 +11,7 @@
 [S6: Object Oriented Programming](https://github.com/davidrol6/2020-2021-PNE/wiki/S6:-Object-Oriented-Programming)  
 [S7: Practice I](https://github.com/davidrol6/2020-2021-PNE/wiki/S7:-Practice-1)   
 ### P2: Client0 Module
-[S8: Client - Server programming 1](https://github.com/davidrol6/2020-2021-PNE/wiki/S8-Client---Server-programming-1)   
+[S8: Client - Server programming 1](https://github.com/davidrol6/2020-2021-PNE/wiki/S8-Client---Server-programming-1)
+[S9: Practice 2](https://github.com/davidrol6/2020-2021-PNE/wiki/S9:-Pratice-2)      
 
  
