@@ -13,5 +13,9 @@
 ### P2: Client0 Module
 [S8: Client - Server programming 1](https://github.com/davidrol6/2020-2021-PNE/wiki/S8-Client---Server-programming-1)<br>
 [S9: Practice 2](https://github.com/davidrol6/2020-2021-PNE/wiki/S9:-Practice-2)      
+### P3: Seq Server
+[S10: Client Server](https://github.com/davidrol6/2020-2021-PNE/wiki/S10:-Client-Server)         
+
+
 
  
