@@ -17,7 +17,7 @@
 [S10: Client Server](https://github.com/davidrol6/2020-2021-PNE/wiki/S10:-Client-Server)     
 [S11: Practice 3](https://github.com/davidrol6/2020-2021-PNE/wiki/S11:-Practice-3)  
 ### P4: Bases Web Server
-[S12: Practice 3](https://github.com/davidrol6/2020-2021-PNE/wiki/S12:-HTTP-protocol)  
+[S12: HTTP Protocol](https://github.com/davidrol6/2020-2021-PNE/wiki/S12:-HTTP-protocol)  
 
 
    
