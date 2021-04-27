@@ -22,6 +22,10 @@
 ### P5: Bases2 Web Server
 [S14: HTTP Module](https://github.com/davidrol6/2020-2021-PNE/wiki/S14:-HTTP-Python-library)  
 [S15: Practice 5](https://github.com/davidrol6/2020-2021-PNE/wiki/S15:-Practice-5)  
+### P6: Seq2 Server
+[S16: HTML forms](https://github.com/davidrol6/2020-2021-PNE/wiki/S16:-HTML-forms)   
+
+
 
    
 
