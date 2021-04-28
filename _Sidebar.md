@@ -24,7 +24,7 @@
 [S15: Practice 5](https://github.com/davidrol6/2020-2021-PNE/wiki/S15:-Practice-5)  
 ### P6: Seq2 Server
 [S16: HTML forms](https://github.com/davidrol6/2020-2021-PNE/wiki/S16:-HTML-forms)   
-
+[S17: Practice 6](https://github.com/davidrol6/2020-2021-PNE/wiki/S17:-Practice-6)   
 
 
    
