@@ -25,7 +25,7 @@
 ### P6: Seq2 Server
 [S16: HTML forms](https://github.com/davidrol6/2020-2021-PNE/wiki/S16:-HTML-forms)   
 [S17: Practice 6](https://github.com/davidrol6/2020-2021-PNE/wiki/S17:-Practice-6)   
-###P7: Ensembl client
+### P7: Ensembl client
 [S18: JSON. API REST](https://github.com/davidrol6/2020-2021-PNE/wiki/S18:-JSON.-API-REST)   
 
 
