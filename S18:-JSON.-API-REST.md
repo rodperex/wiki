@@ -1,4 +1,4 @@
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s18-json-rest/Cover/Cover.png)
+![](https://github.com/davidrol6/2020-2021-PNE/blob/master/s18-json-rest/Cover/Cover.png)
 
 # Session 18: JSON and API rest
 
