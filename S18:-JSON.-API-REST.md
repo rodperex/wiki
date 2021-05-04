@@ -500,7 +500,7 @@ The **output** should be something like this:
 * **Description**: Modify the json-server.py for returning the **people-EX01.json** file when the resource **/listusers** is requested. This file contains the data of the three users
 
 * **File**: Session-18/json-client-EX02.py
-* **Description**: Modify the json-client-2.py for requesting que list of users to the server and printing them o the console, like in the Exercise 1
+* **Description**: Modify the json-client-2.py for requesting the list of users to the server and printing them o the console, like in the Exercise 1
 
 ## END of the session
 
