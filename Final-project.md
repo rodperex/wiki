@@ -1,4 +1,4 @@
-![](https://github.com/myTeachingURJC/2019-2020-PNE/raw/master/s20-final-project/Cover/Cover.png)
+![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s20-final-project/Cover/Cover.png)
 
 # Session 20: Final project specification
 
