@@ -175,7 +175,7 @@ As this is a medium level, no more information is given to you. You should read 
 Your Medium level application should contains **at least** the following files:
 
 * **File**:  Final-Project/server.py
-  * **Description**: Main file for executing your application. It implements the 4 basic endpoints + the 4 medium endpoints mentioned in the specification 
+  * **Description**: Main file for executing your application. It implements the 4 basic endpoints + the 3 medium endpoints mentioned in the specification 
 * **File**: Final-Project/report-medium.txt
   * **Description**: Report file. It is a text file that contains **ALL* the endpoints that you have tested and the information returned by your application to the browser. The purpose of this file is to document the functioning of your server, so that other engineer can review it. You should test AGAIN the **basic services** for ensuring that they are still working and write the result in this report along with the information of the new services
 
@@ -191,9 +191,9 @@ In order to test the server, you should create a **client** that makes request t
 ### Mandatory files
 
 * **File**:  Final-Project/server.py
-  * **Description**: Main file for executing your application. It implements the 4 basic endpoints + the 4 medium endpoints mentioned in the specification 
+  * **Description**: Main file for executing your application. It implements the 4 basic endpoints + the 3 medium endpoints mentioned in the specification 
 * **File**:  Final-Project/client.py
-  * **Description**: Main file for executing your application. It implements the 4 basic endpoints + the 4 medium endpoints mentioned in the specification 
+  * **Description**: Main file for executing your application. It implements the 4 basic endpoints + the 3 medium endpoints mentioned in the specification 
 * **File**: Final-Project/report-advanced.txt
   * **Description**: Report file. It is a text file that contains **ALL* the endpoints that you have tested and the information returned by your application. The purpose of this file is to document the functioning of your server, so that other engineer can review it. You should test AGAIN the **basic services** and the **medium services** and then with the json parameter activated 
 
