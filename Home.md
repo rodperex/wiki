@@ -6,7 +6,7 @@
 * **Year**: 1st
 * **Semester**: 2Q
 * **Credits**: 6
-* **Room**: 106 Aulario I, Alcorcon
+* **Room**: Aula S001 Edificio de gestión, Alcorcon
 * **Description**: The subject will train the students the different techniques for programming computerized systems in network, in the field of Biomedicine
 
 # Contents
