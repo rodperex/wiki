@@ -3,7 +3,7 @@
 # Session 1: Tools-I
 
 * **Time**: 2h
-* **Date**: Wednesday, Feb-10th-2020
+* **Date**: Wednesday, Jan-26th-2022
 * **Goals**:
   * Brief introduction to Github
   * Create your first repository
