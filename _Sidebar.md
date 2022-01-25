@@ -2,7 +2,7 @@
 
 [S0: Introduction](https://github.com/davidrol6/2020-2021-PNE/wiki/Introduction)  
 [S1: Tools I](https://github.com/davidrol6/2020-2021-PNE/wiki/Tools-I)  
-[S2: Tools II](https://github.com/davidrol6/2020-2021-PNE/wiki/Tools-II)     
+<!-- [S2: Tools II](https://github.com/davidrol6/2020-2021-PNE/wiki/Tools-II)     
 [S3: Practicing with the tools](https://github.com/davidrol6/2020-2021-PNE/wiki/S3:-Practicing-with-the-tools)  
 ### P0: Seq0 Module
 [S4: Ensembl I](https://github.com/davidrol6/2020-2021-PNE/wiki/S4:-The-ensembl-genome-browser)  
@@ -29,7 +29,7 @@
 [S18: JSON. API REST](https://github.com/davidrol6/2020-2021-PNE/wiki/S18:-JSON.-API-REST)   
 [S19: Practice 7](https://github.com/davidrol6/2020-2021-PNE/wiki/S19:-Practice-7)   
 ### Final Project
-[Final project](https://github.com/davidrol6/2020-2021-PNE/wiki/Final-project)   
+[Final project](https://github.com/davidrol6/2020-2021-PNE/wiki/Final-project)   -->
 
    
 
