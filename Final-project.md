@@ -1,5 +1,5 @@
 ![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s20-final-project/Cover/Cover.png)
-<!--
+
 # Session 20: Final project specification
 
 * **Project tittle**:  Browsing human and vertebrates genome
@@ -212,4 +212,3 @@ In order to test the server, you should create a **client** that makes request t
 
 * [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/)
 * [Escuela Técnica Superior de Ingeniería de Telecomunicaciones (URJC)](https://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/content/etsit-escuela-tecnica-superior-de-ingenieria-de-telecomunicacion)
--->
