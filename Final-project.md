@@ -1,11 +1,11 @@
 ![](https://github.com/davidrol6/2020-2021-PNE/raw/master/s20-final-project/Cover/Cover.png)
-
+<!--
 # Session 20: Final project specification
 
 * **Project tittle**:  Browsing human and vertebrates genome
 * **Date**: Tuesday, May-7th-2021
 * **Deadline**: Jun-2nd-2021
-
+-->
 
 ## Contents
 
