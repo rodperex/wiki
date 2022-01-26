@@ -5,7 +5,7 @@
 * **Project tittle**:  Browsing human and vertebrates genome
 * **Date**: Tuesday, May-7th-2021
 * **Deadline**: Jun-2nd-2021
--->
+
 
 ## Contents
 
@@ -212,3 +212,4 @@ In order to test the server, you should create a **client** that makes request t
 
 * [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/)
 * [Escuela Técnica Superior de Ingeniería de Telecomunicaciones (URJC)](https://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/content/etsit-escuela-tecnica-superior-de-ingenieria-de-telecomunicacion)
+-->
