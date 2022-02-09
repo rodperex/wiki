@@ -138,7 +138,7 @@ You have to download the installer from this page: [Pycharm Community Edition](h
 
 Once everything is installed, you can proceed with the instrucctions given in the [Session 2: Working with Pycharm and Github](https://github.com/myTeachingURJC/2019-2020-PNE/wiki/Session-1:-Tools-I#working-with-pycharm-and-github)
 
-**I will help you** during the **Lab sessions** (and after the session if you want to stay). **Remember**: There are many of you, but I am only one, so be patience :-) If I do not have time to help you in this session, wait for the next (or after the class). In the meanwhile you can work in the lab
+**I will help you** during the **Lab sessions** (and after the session if you want to stay). **Remember**: There are many of you, but we are only 2, so be patient :-) If we do not have time to help you in this session, wait for the next (or after the class). In the meanwhile you can work in the lab
 
 ## Exercises
 
