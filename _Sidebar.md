@@ -6,8 +6,8 @@
 [S3: Practicing with the tools](https://github.com/davidrol6/2020-2021-PNE/wiki/S3:-Practicing-with-the-tools)  
 ### P0: Seq0 Module
 [S4: Ensembl I](https://github.com/davidrol6/2020-2021-PNE/wiki/S4:-The-ensembl-genome-browser)  
-<!--[S5: Ensembl II](https://github.com/davidrol6/2020-2021-PNE/wiki/S5:-Practice-0)  
-### P1: Seq1 Module
+[S5: Ensembl II](https://github.com/davidrol6/2020-2021-PNE/wiki/S5:-Practice-0)  
+<!--### P1: Seq1 Module
 [S6: Object Oriented Programming](https://github.com/davidrol6/2020-2021-PNE/wiki/S6:-Object-Oriented-Programming)  
 [S7: Practice I](https://github.com/davidrol6/2020-2021-PNE/wiki/S7:-Practice-1)   
 ### P2: Client0 Module
