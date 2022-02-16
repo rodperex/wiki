@@ -151,7 +151,7 @@ Sequence 3: ERROR
 
 ### Exercise 4: len() method
 
-The **len()** method should works with the **three types** of sequences. In case the sequence is **Null** or **invalid**, the length should be always **0**. Implement this behaviour in the Seq Class
+The **len(self)** method should works with the **three types** of sequences. In case the sequence is **Null** or **invalid**, the length should be always **0**. Implement this behaviour in the Seq Class
 
 * **Filename**: P0/Ex4.py
 * **Desription**: Write a python program that creates three sequences: null, valid and invalid. Then it prints their lengths and sequences on the console. This is what we should see on the **console:**
@@ -169,7 +169,7 @@ Process finished with exit code 0
 
 ### Exercise 5: count_base() method
 
-Implement the **count_base(base)** method. If the sequence is Null or invalid, the return value should be 0
+Implement the **count_base(self)** method. If the sequence is Null or invalid, the return value should be 0
 
 * **Filename**: P0/Ex5.py
 * **Desription**: Write a python program that creates three sequences: null, valid and invalid. Then it prints their lengths, sequences and the number of bases on the console. This is what we should see on the **console:**
@@ -191,7 +191,7 @@ Process finished with exit code 0
 
 ### Exercise 6: count() method
 
-Implement the **count()** method. If the sequence is Null or invalid, the returned dictionary should have all its values to 0
+Implement the **count(self)** method. If the sequence is Null or invalid, the returned dictionary should have all its values to 0
 
 * **Filename**: P0/Ex6.py
 * **Desription**: Write a python program that creates three sequences: null, valid and invalid. Then it prints their lengths, sequences and dictionary returned by the count() method. This is what we should see on the **console:**
@@ -213,7 +213,7 @@ Process finished with exit code 0
 
 ### Exercise 7: reverse() method
 
-Implement the **reverse()** method. If the sequence is Null or invalid, it should return the string "NULL" or "ERROR" respectively (and not its reverse!)
+Implement the **reverse(self)** method. If the sequence is Null or invalid, it should return the string "NULL" or "ERROR" respectively (and not its reverse!)
 
 * **Filename**: P0/Ex7.py
 * **Desription**: Write a python program that creates three sequences: null, valid and invalid. Then it prints their lengths, sequences, the dictionary with the bases and the reverse sequence. This is what we should see on the **console:**
@@ -236,7 +236,7 @@ Sequence 2: (Length: 0) ERROR
 
 ### Exercise 8: complement() method
 
-Implement the **complement()** method. If the sequence is Null or invalid, it should return the string "NULL" or "ERROR" respectively (and not its complement!)
+Implement the **complement(self)** method. If the sequence is Null or invalid, it should return the string "NULL" or "ERROR" respectively (and not its complement!)
 
 * **Filename**: P0/Ex8.py
 * **Desription**: Write a python program that creates three sequences: null, valid and invalid. Then it prints their lengths, sequences, the dictionary with the bases, the reverse sequence and the complement. This is what we should see on the **console:**
@@ -264,7 +264,7 @@ Process finished with exit code 0
 
 ### Exercise 9: read_fasta() method
 
-We have been creating sequences by passing a string with the bases to the object. We also want to create sequence from **files** in **fasta format**. That is the purpose of the read_fasta() method
+We have been creating sequences by passing a string with the bases to the object. We also want to create sequence from **files** in **fasta format**. That is the purpose of the read_fasta(self) method
 
 For using the read_fasta() method we need first to create a **Null sequenc**e. And then we call the read_fasta() method
 
