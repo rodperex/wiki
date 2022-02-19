@@ -3,7 +3,7 @@
 # Session 7: Practice 1
 
 * **Time**: 2h
-* **Date**: Wednesday, Mar-03rd-2020
+* **Date**: Wednesday, Feb-16th-2022
 * **Goals**:
   * Creating our first Class Module for working with DNA sequences
 
