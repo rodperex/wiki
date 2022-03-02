@@ -1,4 +1,4 @@
-![](https://github.com/davidrol6/2021-2022-PNE/raw/master/s9-Practice-2/Cover/Cover.png)
+![](https://github.com/davidrol6/2021-2022-PNE/raw/master/s9-Practice-2/Cover/Cover2.png)
 
 # Session 9: Practice 2
 
