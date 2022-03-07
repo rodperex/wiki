@@ -37,7 +37,6 @@ For making it easier to send the messages, we will develop the **class Client** 
 | **\_\_str\_\_()**    | none    | String | It returns the string: "Connection to SERVER at {ip}, PORT: {port}", where the {ip} and {port} are the server's ip and port respectivelly |
 | **ping()**  | None | None | It prints the "OK" message on the console. It is just for testing the module |
 | **talk(msg)**   | msg: String to send to the server | The response message from the server | It creates a new socket, connects to the server, sends the message, receive the response message from the server and closes the socket |
-| **debug_talk(msg)** | msg: String to send to the server | The response message from the server | It works the same than the talk method, but it prints on the console both the message sent to the server and the response received, in different colors |
 
 As always, this class will be created step by step in the exercises. The process is guided
 
