@@ -29,7 +29,6 @@
   * [Exercise 3](#exercise-3)  
   * [Exercise 4](#exercise-4)  
 * [End of the session](#end-of-the-session)
-* [Author](#author)
 * [Credits](#credits)
 * [License](#license) 
 
