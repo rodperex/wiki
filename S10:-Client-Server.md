@@ -462,7 +462,7 @@ Modify the server of exercise 2 so that it **stores the client's tuples (IP, POR
 
 ### Exercise 4
 
-**Write a client** for **testing** the server of the exercise 3.It should connect **5 times** to the server, sending the message: **message i**, where i change from 0 to 4. You must use the **Client0 module** developed in the **Practice 2**. Use the method debug_talk() for sending the messages to the server
+**Write a client** for **testing** the server of the exercise 3.It should connect **5 times** to the server, sending the message: **message i**, where i change from 0 to 4. You must use the **Client0 module** developed in the **Practice 2**. Use the method talk() for sending the messages to the server
 
 * **Filename**: Session-10/client-test.py
 * **Description**: This is an example of the output in the **client's console**:
