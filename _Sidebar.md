@@ -16,9 +16,9 @@
 ### P3: Seq Server
 [S10: Client Server](https://github.com/davidrol6/2020-2021-PNE/wiki/S10:-Client-Server)     
 [S11: Practice 3](https://github.com/davidrol6/2020-2021-PNE/wiki/S11:-Practice-3)  
-<!--### P4: Bases Web Server
+### P4: Bases Web Server
 [S12: HTTP Protocol](https://github.com/davidrol6/2020-2021-PNE/wiki/S12:-HTTP-protocol)  
-[S13: Practice 4](https://github.com/davidrol6/2020-2021-PNE/wiki/S13:-Practice-4)  
+<!--[S13: Practice 4](https://github.com/davidrol6/2020-2021-PNE/wiki/S13:-Practice-4)  
 ### P5: Bases2 Web Server
 [S14: HTTP Module](https://github.com/davidrol6/2020-2021-PNE/wiki/S14:-HTTP-Python-library)  
 [S15: Practice 5](https://github.com/davidrol6/2020-2021-PNE/wiki/S15:-Practice-5)  
