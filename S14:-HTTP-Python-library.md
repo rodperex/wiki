@@ -37,7 +37,7 @@ We will follow a **top-down** approach: starting with the **fully-working server
 
 The **HTTP module** includes a fully working web server. Let's test it
 
-* **Create a new folder** in your **2019-2020-PNE-practices** project. Call it: **Session-14**
+* **Create a new folder** in your **2021-2022-PNE-practices** project. Call it: **Session-14**
 * **Download** these **html example files** and store them into the **Session-14** folder:
   * [index.html](https://github.com/myTeachingURJC/2018-19-PNE/raw/master/wiki/s13-http-module/examples/index.html)
   * [green.html](https://github.com/myTeachingURJC/2018-19-PNE/raw/master/wiki/s13-http-module/examples/green.html)
