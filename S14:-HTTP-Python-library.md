@@ -262,7 +262,7 @@ Now we will add a **response message** to our handler so that the browser will s
 
 In our **TestHandler** Class we can use the following methods for **generating the response** very easily:
 
-* **self.send_response(code)** : Creates a **response header** with a **status line** with the error CODE passed as an argumento. The response is not really sent yet, but stored into a buffer. The **status codes** can be found in [this link](https://docs.python.org/3/library/http.html#http-status-codes )
+* **self.send_response(code)** : Creates a **response header** with a **status line** with the error CODE passed as an argument. The response is not really sent yet, but stored into a buffer. The **status codes** can be found in [this link](https://docs.python.org/3/library/http.html#http-status-codes )
 * **self.send_header()**: Add a header to the response message (Ex. Content-Type, Content-Length...)
 * **self.end_headers()**: Add a blank line to the response message (indicating that the header is finished)
 
