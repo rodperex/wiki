@@ -48,7 +48,7 @@ For making it works, you only have to change **small things** and **pay attentio
 
 ### Exercise 1: A.html
 
-Implement the server. Use the same HTML files from the practice 4, with small modifications for working ok on this server. The A,C, T and G HTML pages are store into the P5/info/ folder
+Implement the server. Use the same HTML files from the practice 4, with small modifications for working ok on this server. The A,C, T and G HTML pages are stored into the P5/info/ folder
 
 * **Server Filename**: P5/Bases2-webserver.py
 * **HTML files**: 
