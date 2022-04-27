@@ -93,7 +93,7 @@ This is what it should be **printed on the console** after executing the client:
 
 ### Exercise 2: GENE identification string
 
-Every **sequence** on the ensembl database has an identifier, called **stable identified** (id). If you want to get a **gene**, you can use the [/sequence/id](https://rest.ensembl.org/documentation/info/sequence_id) endpoint. You should pass the **stable identifier** as the **first argument**
+Every **sequence** on the ensembl database has an identifier, called **stable identifier** (id). If you want to get a **gene**, you can use the [/sequence/id](https://rest.ensembl.org/documentation/info/sequence_id) endpoint. You should pass the **stable identifier** as the **first argument**
 
 As an example, the **identifier** for the [SRCAP](https://en.wikipedia.org/wiki/SRCAP) gene is **ENSG00000080603**
 
