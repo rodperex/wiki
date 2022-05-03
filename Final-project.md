@@ -49,7 +49,7 @@ The project is divided into three levels: **Basic**, **medium** and **advanced**
 ## Basic LEVEL
 
 * **Maximum score**: 6 points
-* **Requirements**: You should have finished all the practices (P0 - P7) and have more than **6 weeks** of activity on github
+* **Requirements**: You should have finished all the practices (P0 - P7).
 
 Your application will be a **web server** that should provided some the following **4 services** using the **HTTP protocol**. The response should be an **HTML page** with the required information
 
